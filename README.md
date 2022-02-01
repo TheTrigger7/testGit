@@ -1,2 +1,2 @@
 # testGit
-Our first git project
+Our first git project with Visual Code
